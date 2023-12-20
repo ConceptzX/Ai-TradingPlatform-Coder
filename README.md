@@ -11,7 +11,7 @@ AI to translate code from one programming language to another geared toward Trad
 
 
 ![Ai-Coder](https://github.com/ConceptzX/Ai-TradingPlatform-Coder/blob/main/screenshot.png)
-![Ai-Coder](./public/screenshot0.png)
+![Ai-Coder](https://github.com/ConceptzX/Ai-TradingPlatform-Coder/blob/main/screenshot0.png)
 
 ## Running Locally
 
