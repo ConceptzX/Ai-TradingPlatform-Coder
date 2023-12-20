@@ -10,7 +10,7 @@ AI TradingPlatform Coder
 AI to translate code from one programming language to another geared toward Trading Platforms.
 
 
-![Ai-Coder](./public/screenshot.png)
+![Ai-Coder](https://github.com/ConceptzX/Ai-TradingPlatform-Coder/blob/main/screenshot.png)
 ![Ai-Coder](./public/screenshot0.png)
 
 ## Running Locally
