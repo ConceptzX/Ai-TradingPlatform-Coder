@@ -55,7 +55,7 @@ Trading Platform languages include but not limited to:
 
 'ThinkScript' 
 
-'ASCIL C++ for SierraChart' 	
+'ACSIL C++ for SierraChart' 	
 
 'Visual Basic for Applications (VBA)' 
 
