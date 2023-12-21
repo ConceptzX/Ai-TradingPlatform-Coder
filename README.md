@@ -23,7 +23,7 @@ AI to translate code from one programming language to another geared toward Trad
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/ConceptzX/Ai-Coder.git
+git clone https://github.com/ConceptzX/Ai-TradingPlatform-Coder.git
 ```
 
 **2. Install Dependencies**
