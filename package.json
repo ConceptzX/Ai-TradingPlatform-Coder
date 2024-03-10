@@ -14,7 +14,7 @@
     "@types/react": "18.0.31",
     "@types/react-dom": "18.0.11",
     "@uiw/codemirror-theme-tokyo-night": "^4.19.11",
-    "@uiw/react-codemirror": "^4.19.11",
+    "@uiw/react-codemirror": "^4.21.22",
     "endent": "^2.1.0",
     "eslint": "8.37.0",
     "eslint-config-next": "13.2.4",
